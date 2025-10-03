@@ -1,4 +1,4 @@
-//test:commentaire pour PR import React, { useEffect, useState } from 'react';
+// TODO: première PR — test UI//test:commentaire pour PR import React, { useEffect, useState } from 'react';
 import { View, Text, TextInput, Pressable, Alert } from 'react-native';
 import { supabase } from '../../lib/supabase';
 
