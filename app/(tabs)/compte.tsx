@@ -1,4 +1,4 @@
-import React, { useEffect, useState } from 'react';
+// TODO: première PR — test UI//test:commentaire pour PR import React, { useEffect, useState } from 'react';
 import { View, Text, TextInput, Pressable, Alert } from 'react-native';
 import { supabase } from '../../lib/supabase';
 
@@ -93,3 +93,5 @@ export default function CompteScreen() {
     </View>
   );
 }
+
+// PR test: Ven  3 oct 2025 22:01:34 CEST
